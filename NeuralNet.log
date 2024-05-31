@@ -1,0 +1,8 @@
+Epoch: 0
+Epoch: 1
+Epoch: 2
+Epoch: 3
+Checking accuracy on training data
+Got 58064 / 60000 with accuracy 96.77
+Checking accuracy on test data
+Got 9632 / 10000 with accuracy 96.32
