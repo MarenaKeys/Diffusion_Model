@@ -1,17 +1,17 @@
-# Summer Research: Stable Diffusion Models
+**# Summer Research: Stable Diffusion Models #**
 
 
 
 
-## Task 1: Tutorial on Generative Modeling
+## Task 1: Tutorial on Generative Modeling##
 
-- Task 1/Tutorial Video
-
-
+- '''Task 1/Tutorial Video'''
 
 
 
-## Task 2: Pytorch Tutorial
+
+
+## Task 2: Pytorch Tutorial ##
 
 https://github.com/MarenaKeys/Diffusion_Model/tree/36c4e8b2b8e75bfd9e119daf669055dff76a423b/Task%202
 
@@ -33,11 +33,14 @@ Task 2
 
 
 
-## Task 3. XXX
+## Task 3: Pretrained Models ##
 
-Colab Notebook Link: https://colab.research.google.com/drive/1L04Hh4-D0RJd3JdQT9mMpM4-1K0U8YRq?usp=sharing
+Colab Notebook Link (Cats): https://colab.research.google.com/drive/1L04Hh4-D0RJd3JdQT9mMpM4-1K0U8YRq?usp=sharing
 Path: 
+Hugging Face: mkeys20/cats-random
 
+Colab Notebook Link (Yorkies): https://colab.research.google.com/drive/1OotPx46vZvCVeLLn0PIBSrRwFAv6bteE?usp=sharing
+Path: 
 - at least show below with some descriptions.
 
     - show notebook path
