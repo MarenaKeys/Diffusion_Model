@@ -1,8 +1,6 @@
 # Summer Research: Stable Diffusion Models 
 
 
-
-
 ## Task 1: Tutorial on Generative Modeling##
 
 -  Task 1/Tutorial Video 
@@ -45,10 +43,4 @@ Hugging Face: mkeys20/cats-random
 
 2. Colab Notebook Link (Yorkies): https://colab.research.google.com/drive/1OotPx46vZvCVeLLn0PIBSrRwFAv6bteE?usp=sharing
 
-- at least show below with some descriptions.
 
-    - show notebook path
-
-    - show colab link
-
-    - show hugging face model link
