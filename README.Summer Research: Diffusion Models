@@ -5,7 +5,7 @@
 
 ## Task 1: Tutorial on Generative Modeling##
 
-- '''Task 1/Tutorial Video'''
+-  ```Task 1/Tutorial Video ```
 
 
 
@@ -36,7 +36,7 @@ Task 2
 ## Task 3: Pretrained Models ##
 
 Colab Notebook Link (Cats): https://colab.research.google.com/drive/1L04Hh4-D0RJd3JdQT9mMpM4-1K0U8YRq?usp=sharing
-Path: 
+Path: Task 3/Fast_DreamBooth_(Cats).ipynb
 Hugging Face: mkeys20/cats-random
 
 Colab Notebook Link (Yorkies): https://colab.research.google.com/drive/1OotPx46vZvCVeLLn0PIBSrRwFAv6bteE?usp=sharing
