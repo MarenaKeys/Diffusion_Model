@@ -33,6 +33,7 @@ Hugging Face: mkeys20/cats-random<br/>
 For this task, I used the COCO API demo to finetune a model that uses a metadata.jsonl file to load and display captions for a unique subset of images.
 
 - Colab Notebook Link: https://colab.research.google.com/drive/1t9fXUIVZRv5nSO1zlXleNA-bR5AJyiJj?usp=sharing
+- Hugging Face: mkeys20/CustomCOCO
 - Path: Task 4/CustomCOCO.ipynb<br>
 - Generate random metadata.jsonl files: https://colab.research.google.com/drive/1nHs9pkYo7gycqPvoo6CSrLvRBxywn4Sr?usp=sharing
 
