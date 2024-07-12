@@ -28,4 +28,14 @@ Hugging Face: mkeys20/cats-random<br/>
 
 2. Colab Notebook Link (Yorkies): https://colab.research.google.com/drive/1OotPx46vZvCVeLLn0PIBSrRwFAv6bteE?usp=sharing
 
+## Task 4: Custom Dataset ##
 
+For this task, I used the COCO API demo to finetune a model that uses a metadata.jsonl file to load and display captions for a unique subset of images.
+
+- Colab Notebook Link:
+- Path:
+- Generate random metadata.jsonl files: 
+
+
+## Task 5: Understanding Stable Diffusion & Unet Architecture 
+-
