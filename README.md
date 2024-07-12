@@ -33,9 +33,12 @@ Hugging Face: mkeys20/cats-random<br/>
 For this task, I used the COCO API demo to finetune a model that uses a metadata.jsonl file to load and display captions for a unique subset of images.
 
 - Colab Notebook Link: https://colab.research.google.com/drive/1t9fXUIVZRv5nSO1zlXleNA-bR5AJyiJj?usp=sharing
-- Path:
+- Path: Task 4/CustomCOCO.ipynb<br>
 - Generate random metadata.jsonl files: https://colab.research.google.com/drive/1nHs9pkYo7gycqPvoo6CSrLvRBxywn4Sr?usp=sharing
 
 
-## Task 5: Understanding Stable Diffusion & Unet Architecture 
--
+## Task 5: Understanding Stable Diffusion & UNet Architecture 
+- I learned about the different components of a UNet and how to build one using Google Colab. I looked at the internal compenents of stable diffusion.
+- Colab Notebooks: https://colab.research.google.com/drive/1TvOlX2_l4pCBOKjDI672JcMm4q68sKrA?usp=sharing <br> https://colab.research.google.com/drive/1mm67_irYu3qU3hnfzqK5yQC38Fd5UFam?usp=sharing
+
+## Task 6: MNIST Dataset
