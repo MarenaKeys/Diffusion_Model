@@ -21,7 +21,7 @@ https://github.com/MarenaKeys/Diffusion_Model/tree/36c4e8b2b8e75bfd9e119daf66905
 ## Task 3: Pretrained Models ##
 
 For the first notebook, I used images of cats to train the model and for the second model, I used images of yorkies. The resulting images of the first model were more realistic compared to the images produced in the second model.
-via a [colab notebook](https://colab.research.google.com/github/MarenaKeys/Diffusion_Model/blob/main/scripts/Fast_DreamBooth_(Cats).ipynb) [![][colab]][colab-cin].
+via a [colab notebook](https://colab.research.google.com/github/MarenaKeys/Diffusion_Model/blob/main/scripts/Task 3/Fast_DreamBooth_(Cats).ipynb) [![][colab]][colab-cin].
 1. Colab Notebook Link (Cats): https://colab.research.google.com/drive/1L04Hh4-D0RJd3JdQT9mMpM4-1K0U8YRq?usp=sharing <br/>
 Path: Task 3/Fast_DreamBooth_(Cats).ipynb<br/>
 Hugging Face: mkeys20/cats-random<br/>
