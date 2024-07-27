@@ -24,7 +24,7 @@ https://github.com/MarenaKeys/Diffusion_Model/tree/36c4e8b2b8e75bfd9e119daf66905
 For the first notebook, I used images of cats to train the model and for the second model, I used images of yorkies. The resulting images of the first model were more realistic compared to the images produced in the second model.
  
 1. The model that is finetuned based on cat images is available via
-   [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/MarenaKeys/Diffusion_Model/Task 3/Fast_DreamBooth_(Cats).ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)(https://github.com/MarenaKeys/Diffusion_Model/blob/main/Task%203/Fast_DreamBooth_(Cats).ipynb)
 Hugging Face: mkeys20/cats-random<br/>
 
 ![00001-2045230319 (1)](https://github.com/user-attachments/assets/69904cc7-04cf-4c74-b4f5-a94e6d458aed)
@@ -34,12 +34,14 @@ Hugging Face: mkeys20/cats-random<br/>
 
 ## Task 4: Custom Dataset ##
 
-For this task, I used the COCO API demo to finetune a model that uses a metadata.jsonl file to load and display captions for a unique subset of images.
+For this task, I used the [COCO API Demo](https://github.com/cocodataset/cocoapi/blob/master/PythonAPI/pycocoDemo.ipynb) to finetune a model that uses a metadata.jsonl file to load and display captions for a unique subset of images. [COCO](https://cocodataset.org/#download) is a large dataset that can be used for image captioning, object detection, and segmentation. I specifically worked with the 2014 dataset.
 
 - Colab Notebook Link: https://colab.research.google.com/drive/1t9fXUIVZRv5nSO1zlXleNA-bR5AJyiJj?usp=sharing
 - Hugging Face: mkeys20/CustomCOCO
 - Path: Task 4/CustomCOCO.ipynb<br>
 - Generate random metadata.jsonl files: https://colab.research.google.com/drive/1nHs9pkYo7gycqPvoo6CSrLvRBxywn4Sr?usp=sharing
+
+Below are examples of images along with their captions that my model generated:
 
 <img width="650" alt="Screenshot 2024-07-27 at 3 02 58 PM" src="https://github.com/user-attachments/assets/1028626f-c66f-454e-82b1-a34666a30af2">
 
