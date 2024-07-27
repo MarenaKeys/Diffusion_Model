@@ -22,8 +22,19 @@ https://github.com/MarenaKeys/Diffusion_Model/tree/36c4e8b2b8e75bfd9e119daf66905
 
 For the first notebook, I used images of cats to train the model and for the second model, I used images of yorkies. The resulting images of the first model were more realistic compared to the images produced in the second model.
  
-1. The model that is finetuned based on cat images is available via "https://colab.research.google.com/github/MarenaKeys/Diffusion_Model/blob/main/Fast_DreamBooth_(Cats).ipynb\" target=\"_parent\"><img src=\"https://colab.research.google.com/assets/colab-badge.svg\" alt=\"Open In Colab\"/></a>"
-2.
+1. The model that is finetuned based on cat images is available via
+   {
+  "cells": [
+    {
+      "cell_type": "markdown",
+      "metadata": {
+        "id": "view-in-github",
+        "colab_type": "text"
+      },
+      "source": [
+        "<a href=\"https://colab.research.google.com/github/MarenaKeys/Diffusion_Model/blob/main/Fast_DreamBooth_(Cats).ipynb\" target=\"_parent\"><img src=\"https://colab.research.google.com/assets/colab-badge.svg\" alt=\"Open In Colab\"/></a>"
+      ]
+    }
 3. [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/MarenaKeys/Diffusion_Model/Task 3/Fast_DreamBooth_(Cats).ipynb)
 Hugging Face: mkeys20/cats-random<br/>
 
