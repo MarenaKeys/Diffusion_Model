@@ -41,6 +41,9 @@ For this task, I used the COCO API demo to finetune a model that uses a metadata
 - Path: Task 4/CustomCOCO.ipynb<br>
 - Generate random metadata.jsonl files: https://colab.research.google.com/drive/1nHs9pkYo7gycqPvoo6CSrLvRBxywn4Sr?usp=sharing
 
+<img width="650" alt="Screenshot 2024-07-27 at 3 02 58 PM" src="https://github.com/user-attachments/assets/1028626f-c66f-454e-82b1-a34666a30af2">
+
+
 <img width="754" alt="Screenshot 2024-07-25 at 9 54 08 AM" src="https://github.com/user-attachments/assets/75b095a2-cc29-4fb4-a06f-3a758f059843">
 
 
