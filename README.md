@@ -1,3 +1,4 @@
+
 # Summer Research: Stable Diffusion Models 
 
 
@@ -26,7 +27,10 @@ For the first notebook, I used images of cats to train the model and for the sec
    [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/MarenaKeys/Diffusion_Model/Task 3/Fast_DreamBooth_(Cats).ipynb)
 Hugging Face: mkeys20/cats-random<br/>
 
+![00001-2045230319 (1)](https://github.com/user-attachments/assets/69904cc7-04cf-4c74-b4f5-a94e6d458aed)
+
 2. Colab Notebook Link (Yorkies): https://colab.research.google.com/drive/1OotPx46vZvCVeLLn0PIBSrRwFAv6bteE?usp=sharing
+<img width="312" alt="Screenshot 2024-07-25 at 9 51 30 AM" src="https://github.com/user-attachments/assets/f909cbec-0975-4da1-95ba-5915357f0f84">
 
 ## Task 4: Custom Dataset ##
 
@@ -37,9 +41,16 @@ For this task, I used the COCO API demo to finetune a model that uses a metadata
 - Path: Task 4/CustomCOCO.ipynb<br>
 - Generate random metadata.jsonl files: https://colab.research.google.com/drive/1nHs9pkYo7gycqPvoo6CSrLvRBxywn4Sr?usp=sharing
 
+<img width="754" alt="Screenshot 2024-07-25 at 9 54 08 AM" src="https://github.com/user-attachments/assets/75b095a2-cc29-4fb4-a06f-3a758f059843">
+
 
 ## Task 5: Understanding Stable Diffusion & UNet Architecture 
 - I learned about the different components of a UNet and how to build one using Google Colab. I looked at the internal compenents of stable diffusion.
 - Colab Notebooks: https://colab.research.google.com/drive/1TvOlX2_l4pCBOKjDI672JcMm4q68sKrA?usp=sharing <br> https://colab.research.google.com/drive/1mm67_irYu3qU3hnfzqK5yQC38Fd5UFam?usp=sharing
 
+<img width="715" alt="Screenshot 2024-07-18 at 10 56 24 AM" src="https://github.com/user-attachments/assets/4b783c57-19c3-493b-91f1-05dd15bc4db4">
+
 ## Task 6: MNIST Dataset
+The MNIST dataset consists of ....
+<img width="605" alt="Screenshot 2024-07-27 at 2 56 57 PM" src="https://github.com/user-attachments/assets/8040a7a2-126a-416f-8bef-79f94ba67c60">
+
