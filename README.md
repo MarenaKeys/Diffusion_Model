@@ -2,7 +2,7 @@
 # Summer Research: Stable Diffusion Models 
 
 
-## Task 1: Tutorial on Generative Modeling##
+## Task 1: Tutorial on Generative Modeling
 
 -  Task 1/Tutorial Video <br/>
 -  Slides: https://docs.google.com/presentation/d/1-wqg4TmuoHn_27VloxSIcTxclBT9nwbPXd8IxFcXxto/edit?usp=sharing
