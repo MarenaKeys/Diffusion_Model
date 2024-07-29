@@ -23,22 +23,18 @@ https://github.com/MarenaKeys/Diffusion_Model/tree/36c4e8b2b8e75bfd9e119daf66905
 
 For the first notebook, I used images of cats to train the model and for the second model, I used images of yorkies. The resulting images of the first model were more realistic compared to the images produced in the second model.
  
-1. The model that is finetuned based on cat images is available via
+1. The model that is finetuned based on cat images is available via: <br>
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/MarenaKeys/Diffusion_Model/blob/main/Task%203/Fast_DreamBooth_(Cats).ipynb)
 
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)(https://github.com/MarenaKeys/Diffusion_Model/blob/main/Task%203/Fast_DreamBooth_(Cats).ipynb]
-
-[![Open in Spaces](https://img.shields.io/badge/%F0%9F%A4%97-Open%20in%20Spaces-orange)](https://huggingface.co/mkeys20/cats-random
-)
+[![Model on 🤗 ]((https://huggingface.co/datasets/huggingface/badges/resolve/main/model-on-hf-sm.svg))](https://huggingface.co/mkeys20/cats-random)
 
 
-Hugging Face: mkeys20/cats-random<br/>
+
 
 ![00001-2045230319 (1)](https://github.com/user-attachments/assets/69904cc7-04cf-4c74-b4f5-a94e6d458aed)
 
-2. Colab Notebook Link (Yorkies): https://colab.research.google.com/drive/1OotPx46vZvCVeLLn0PIBSrRwFAv6bteE?usp=sharing
-<img width="312" alt="Screenshot 2024-07-25 at 9 51 30 AM" src="https://github.com/user-attachments/assets/f909cbec-0975-4da1-95ba-5915357f0f84">
+2. Colab Notebook Link (Yorkies): [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/MarenaKeys/Diffusion_Model/blob/main/YorkieDreamBooth.ipynb)
 
 ## Task 4: Custom Dataset ##
 
