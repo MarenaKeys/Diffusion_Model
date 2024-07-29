@@ -27,7 +27,7 @@ For the first notebook, I used images of cats to train the model and for the sec
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/MarenaKeys/Diffusion_Model/blob/main/Task%203/Fast_DreamBooth_(Cats).ipynb)
 
 
-[![Model on 🤗 ]((https://huggingface.co/datasets/huggingface/badges/resolve/main/model-on-hf-sm.svg))](https://huggingface.co/mkeys20/cats-random)
+[![Model on 🤗 ](https://huggingface.co/datasets/huggingface/badges/resolve/main/model-on-hf-sm.svg)](https://huggingface.co/mkeys20/cats-random)
 
 
 
