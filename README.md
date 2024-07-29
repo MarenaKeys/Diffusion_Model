@@ -1,9 +1,24 @@
 
 # Summer Research: Stable Diffusion Models 
 
-My research consists of learning about generative models, specifically Stable Diffusion and Denoising Diffusion 	Probabilistic Models
+My research consists of learning about generative models, specifically Stable Diffusion and Denoising Diffusion Probabilistic Models. Throughout this process, I learned how to create custom datasets, fine-tune models, and the internal structure of stable diffusion.
 
-![image](https://github.com/user-attachments/assets/9daf7cb3-a172-435e-bf03-902567cb104b)
+<br> Through this repository, I will walk you through the tasks I worked on in able to fine-tune my own model as well as understanding the components and internal architecture of stable diffusion.
+
+**Generative Models & Stable Diffusion**
+- Generative Models are models that generate new samples based on the data learned during training
+- Stable Diffusion is a generative model that makes images from text prompts
+
+** Denoising Diffusion Probabilistic Models**
+-
+<img width="1046" alt="Screenshot 2024-06-17 at 10 46 10 AM" src="https://github.com/user-attachments/assets/64afcbe5-7aed-4448-9992-db3e08ae6f99">
+
+
+**Fine-tuning Method**
+
+DreamBooth is a machine learning technique where one can train (fine-tune) a pretrained model to create a custom set of images. I used Google Colab, similar to Jupyter, to test and run the models.
+
+
 
 
 ## Task 1: Tutorial on Generative Modeling
