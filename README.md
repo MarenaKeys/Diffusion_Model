@@ -9,8 +9,9 @@ My research consists of learning about generative models, specifically Stable Di
 - Generative Models are models that generate new samples based on the data learned during training
 - Stable Diffusion is a generative model that makes images from text prompts
 
-** Denoising Diffusion Probabilistic Models**
--
+**Denoising Diffusion Probabilistic Models**
+- Generative models that work by adding noise (pixels) to images and then denoising to generate new images <br>
+* *The image below shows forward diffusion and reverse diffusion* *
 <img width="1046" alt="Screenshot 2024-06-17 at 10 46 10 AM" src="https://github.com/user-attachments/assets/64afcbe5-7aed-4448-9992-db3e08ae6f99">
 
 
