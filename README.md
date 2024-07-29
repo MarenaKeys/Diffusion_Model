@@ -1,6 +1,10 @@
 
 # Summer Research: Stable Diffusion Models 
-My research
+
+My research consists of learning about generative models, specifically Stable Diffusion and Denoising Diffusion 	Probabilistic Models
+
+![image](https://github.com/user-attachments/assets/9daf7cb3-a172-435e-bf03-902567cb104b)
+
 
 ## Task 1: Tutorial on Generative Modeling
 
