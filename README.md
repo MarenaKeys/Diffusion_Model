@@ -3,7 +3,7 @@
 
 My research consists of learning about generative models, specifically Stable Diffusion and Denoising Diffusion Probabilistic Models. Throughout this process, I learned how to create custom datasets, fine-tune models, and the internal structure of stable diffusion.
 
-<br> Through this repository, I will walk you through the tasks I worked on in able to fine-tune my own model as well as understanding the components and internal architecture of stable diffusion.
+<br> Throughout this repository, I will walk you through the tasks I worked on in able to fine-tune my own model as well as understanding the components and internal architecture of stable diffusion.
 
 **Generative Models & Stable Diffusion**
 - Generative Models are models that generate new samples based on the data learned during training
