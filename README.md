@@ -18,7 +18,22 @@ Other [PyTorch Tutorials](https://www.youtube.com/playlist?list=PLhhyoLH6Ijfxeoo
 ## Task 3: Pretrained Models 
 
 For the first notebook, I used images of cats to train the model and for the second model, I used images of yorkies. The resulting images of the first model were more realistic compared to the images produced in the second model.
- 
+
+### Getting Started
+Install dependencies
+
+!wget -q https://gist.githubusercontent.com/FurkanGozukara/be7be5f9f7820d0bb85a3052874f184e/raw/d8d179da6cab0735bd5832029c2dec5163db87b4/train_dreambooth.py
+!wget -q https://github.com/ShivamShrirao/diffusers/raw/main/scripts/convert_diffusers_to_original_stable_diffusion.py
+%pip uninstall torchtext --yes
+%pip install -qq git+https://github.com/ShivamShrirao/diffusers
+%pip install torch==2.2.0 torchvision torchaudio --index-url https://download.pytorch.org/whl/cu121 --upgrade
+%pip install -q -U --pre triton --upgrade
+%pip install -q accelerate transformers ftfy gradio natsort safetensors
+%pip install bitsandbytes==0.41.3  --upgrade
+%pip install xformers==0.0.24  --upgrade
+%pip install triton==2.2.0 --upgrade
+%pip install diffusers==0.27.0 --upgrade
+
 1. The model that is finetuned based on cat images is available via: <br>
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/MarenaKeys/Diffusion_Model/blob/main/Task%203/Fast_DreamBooth_(Cats).ipynb)
 
