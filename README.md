@@ -17,10 +17,11 @@ Other [PyTorch Tutorials](https://www.youtube.com/playlist?list=PLhhyoLH6Ijfxeoo
 
 ## Task 3: Pretrained Models 
 
-For the first notebook, I used images of cats to train the model and for the second model, I used images of yorkies. The resulting images of the first model were more realistic compared to the images produced in the second model.
+For this task, I trained two models on Google Colab using DreamBooth. For the first notebook, I used images of cats to train the model and for the second model, I used images of Yorkshire Terriers (Yorkies) dogs. The resulting images of the first model were more realistic compared to the images produced in the second model.
 
 ### Getting Started
-Install dependencies
+**Install dependencies** <br>
+Both models require certain packages/software to be installed in order to run the model. Below is an example from the notebook trained on Yorkies: <br>
 ```
 
 !wget -q https://gist.githubusercontent.com/FurkanGozukara/be7be5f9f7820d0bb85a3052874f184e/raw/d8d179da6cab0735bd5832029c2dec5163db87b4/train_dreambooth.py
@@ -68,16 +69,24 @@ Below are examples of images along with their captions that my model generated:
 <img width="754" alt="Screenshot 2024-07-25 at 9 54 08 AM" src="https://github.com/user-attachments/assets/75b095a2-cc29-4fb4-a06f-3a758f059843">
 
 
-## Task 5: Understanding Stable Diffusion & UNet Architecture 
-- I learned about the different components of a UNet and how to build one using Google Colab. I looked at the internal compenents of stable diffusion.
+## Task 5: Understanding Stable Diffusion & U-Net Architecture 
+The following notebooks show the different components of a U-Net and how to build one using Google Colab as well as the internal compenents of stable diffusion. Essentially, the U-Net gets it name from its (U) shape and consists of four encoders (left) and four decoders (right) to process a text prompt and produce an image corresponding to it for example.
 Colab Notebooks by Binxu Wang: <br> [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1TvOlX2_l4pCBOKjDI672JcMm4q68sKrA?usp=sharing)
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1mm67_irYu3qU3hnfzqK5yQC38Fd5UFam?usp=sharing#scrollTo=xiDr0zU3tAbR)
 <img width="715" alt="Screenshot 2024-07-18 at 10 56 24 AM" src="https://github.com/user-attachments/assets/4b783c57-19c3-493b-91f1-05dd15bc4db4">
 
 ## Task 6: Cross Attention/MNIST Dataset
-The MNIST dataset consists of ....
+The MNIST dataset consists of handwritten digits from zero to nine. The following notebook implements the U-Net architecture and trains the model on MNIST dataset in order to show the viewer a working Stable-Diffusion-like model.
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Y5wr91g5jmpCDiX-RLfWL1eSBWoSuLqO?usp=sharing#scrollTo=PyG11jszkaYM)
 
 <img width="605" alt="Screenshot 2024-07-27 at 2 56 57 PM" src="https://github.com/user-attachments/assets/8040a7a2-126a-416f-8bef-79f94ba67c60">
 
+## Task 7: Results
+
+Using the custom dataset from Task 4 that consists of one hundred images, I trained the first model, from Task 3, on ten images along with their captions. The following results were shown: <br>
+
+### Insert Colab
+### Insert HuggingFace
+
+## Conclusion
