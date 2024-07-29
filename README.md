@@ -1,25 +1,21 @@
 
 # Summer Research: Stable Diffusion Models 
-
+My research
 
 ## Task 1: Tutorial on Generative Modeling
 
--  Task 1/Tutorial Video <br/>
--  Slides: https://docs.google.com/presentation/d/1-wqg4TmuoHn_27VloxSIcTxclBT9nwbPXd8IxFcXxto/edit?usp=sharing
+This [Tutorial](https://www.youtube.com/watch?v=cS6JQpEY9cs) explains the foundations of Denoising Diffusion Probabilistic Models (DDPMs), generative models, and advanced techniques. Other applications of diffusion models are discussed such as medical imaging and image-to-image. 
 
 
 
-## Task 2: Pytorch Tutorial ##
+## Task 2: Pytorch Tutorial 
 
-The resulting path shows how to compute basic matrix operations using Pytorch <br/>
-Results: Task 2/TensorMath.py <br/>
+This [Section](https://github.com/MarenaKeys/Diffusion_Model/tree/main/Task%202) shows how to compute matrix operations using Pytorch along with others basics such as how to construct a neural network and other math operations. <br/>
 
-https://github.com/MarenaKeys/Diffusion_Model/tree/36c4e8b2b8e75bfd9e119daf669055dff76a423b/Task%202
-
+Other [PyTorch Tutorials](https://www.youtube.com/playlist?list=PLhhyoLH6IjfxeoooqP9rhU3HJIAVAJ3Vz) can be found in this YouTube playlist by Aladdin Persson.
 
 
-
-## Task 3: Pretrained Models ##
+## Task 3: Pretrained Models 
 
 For the first notebook, I used images of cats to train the model and for the second model, I used images of yorkies. The resulting images of the first model were more realistic compared to the images produced in the second model.
  
@@ -27,23 +23,24 @@ For the first notebook, I used images of cats to train the model and for the sec
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/MarenaKeys/Diffusion_Model/blob/main/Task%203/Fast_DreamBooth_(Cats).ipynb)
 
 
-[![Model on 🤗 ](https://huggingface.co/datasets/huggingface/badges/resolve/main/model-on-hf-sm.svg)](https://huggingface.co/mkeys20/cats-random)
-
+[![Model on 🤗 ](https://huggingface.co/datasets/huggingface/badges/resolve/main/model-on-hf-md.svg)](https://huggingface.co/mkeys20/cats-random)
 
 
 
 ![00001-2045230319 (1)](https://github.com/user-attachments/assets/69904cc7-04cf-4c74-b4f5-a94e6d458aed)
 
 2. Colab Notebook Link (Yorkies): [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/MarenaKeys/Diffusion_Model/blob/main/YorkieDreamBooth.ipynb)
+   
+<img width="1315" alt="Screenshot 2024-07-28 at 8 14 47 PM" src="https://github.com/user-attachments/assets/ffdf2ea5-be18-4153-ae36-7fd797edce3b">
 
-## Task 4: Custom Dataset ##
+## Task 4: Custom Dataset 
 
-For this task, I used the [COCO API Demo](https://github.com/cocodataset/cocoapi/blob/master/PythonAPI/pycocoDemo.ipynb) to finetune a model that uses a metadata.jsonl file to load and display captions for a unique subset of images. [COCO](https://cocodataset.org/#download) is a large dataset that can be used for image captioning, object detection, and segmentation. I specifically worked with the 2014 dataset.
+For this task, I used the [COCO API Demo](https://github.com/cocodataset/cocoapi/blob/master/PythonAPI/pycocoDemo.ipynb) to finetune a model that uses a [metadata.jsonl file](https://github.com/MarenaKeys/Diffusion_Model/blob/main/Task%204/metadata.jsonl.json) to load and display captions for a unique subset of images. [COCO](https://cocodataset.org/#download) is a large dataset that can be used for image captioning, object detection, and segmentation. I specifically worked with the 2014 dataset.
 
-- Colab Notebook Link: https://colab.research.google.com/drive/1t9fXUIVZRv5nSO1zlXleNA-bR5AJyiJj?usp=sharing
-- Hugging Face: mkeys20/CustomCOCO
-- Path: Task 4/CustomCOCO.ipynb<br>
-- Generate random metadata.jsonl files: https://colab.research.google.com/drive/1nHs9pkYo7gycqPvoo6CSrLvRBxywn4Sr?usp=sharing
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/MarenaKeys/Diffusion_Model/blob/main/Task%204/CustomCOCO.ipynb)
+
+[![Model on 🤗 ](https://huggingface.co/datasets/huggingface/badges/resolve/main/model-on-hf-md.svg)](https://huggingface.co/mkeys20/CustomCOCO)
+
 
 Below are examples of images along with their captions that my model generated:
 
@@ -55,11 +52,14 @@ Below are examples of images along with their captions that my model generated:
 
 ## Task 5: Understanding Stable Diffusion & UNet Architecture 
 - I learned about the different components of a UNet and how to build one using Google Colab. I looked at the internal compenents of stable diffusion.
-- Colab Notebooks: https://colab.research.google.com/drive/1TvOlX2_l4pCBOKjDI672JcMm4q68sKrA?usp=sharing <br> https://colab.research.google.com/drive/1mm67_irYu3qU3hnfzqK5yQC38Fd5UFam?usp=sharing
-
+Colab Notebooks by Binxu Wang: <br> [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1TvOlX2_l4pCBOKjDI672JcMm4q68sKrA?usp=sharing)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1mm67_irYu3qU3hnfzqK5yQC38Fd5UFam?usp=sharing#scrollTo=xiDr0zU3tAbR)
 <img width="715" alt="Screenshot 2024-07-18 at 10 56 24 AM" src="https://github.com/user-attachments/assets/4b783c57-19c3-493b-91f1-05dd15bc4db4">
 
-## Task 6: MNIST Dataset
+## Task 6: Cross Attention/MNIST Dataset
 The MNIST dataset consists of ....
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Y5wr91g5jmpCDiX-RLfWL1eSBWoSuLqO?usp=sharing#scrollTo=PyG11jszkaYM)
+
 <img width="605" alt="Screenshot 2024-07-27 at 2 56 57 PM" src="https://github.com/user-attachments/assets/8040a7a2-126a-416f-8bef-79f94ba67c60">
 
