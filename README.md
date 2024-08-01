@@ -5,13 +5,13 @@ My research consists of learning about generative models, specifically Stable Di
 
 Throughout this repository, I will walk you through the tasks I worked on in able to fine-tune my own model as well as understanding the components and internal architecture of stable diffusion.
 
-**Generative Models & Stable Diffusion**
-- Generative Models are models that generate new samples based on the data learned during training
-- Stable Diffusion is a generative model that makes images from text prompts
+**Diffusion Models & Stable Diffusion**
+- Diffusion models are generative models that produce new data similar to its training data
+- Stable Diffusion is a type of diffusion model that makes images from text prompts
 
 **Denoising Diffusion Probabilistic Models**
 - Generative models that work by adding noise (pixels) to images and then denoising to generate new images <br>
-* *The image below shows forward diffusion and reverse diffusion* *
+* *The image below shows forward diffusion and reverse diffusion*
 <img width="1046" alt="Screenshot 2024-06-17 at 10 46 10 AM" src="https://github.com/user-attachments/assets/64afcbe5-7aed-4448-9992-db3e08ae6f99">
 
 
@@ -104,9 +104,15 @@ The MNIST dataset consists of handwritten digits from zero to nine. The followin
 
 ## Task 7: Results
 
-Using the custom dataset from Task 4 that consists of one hundred images, I trained the first model, from Task 3, on ten images along with their captions. The following results were shown: <br>
+Using the custom dataset from Task 4 that consists of one hundred images, I trained a model from Task 3, on ten images along with their captions. The following results were shown: <br>
 
-### Insert Colab
-### Insert HuggingFace
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](
+[![Model on 🤗 ](https://huggingface.co/datasets/huggingface/badges/resolve/main/model-on-hf-md.svg)](https://huggingface.co/mkeys20/coco-custom)
+### Original
+![COCO_val2014_000000002149](https://github.com/user-attachments/assets/3553ab01-94d1-4e8c-882b-d0972c7df10e)
+
+### New
+![00003-1518213186](https://github.com/user-attachments/assets/e218ebd3-e726-4d5e-8371-56c99239ec4f)
+
 
 ## Conclusion
