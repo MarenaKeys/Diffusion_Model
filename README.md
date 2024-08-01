@@ -106,7 +106,7 @@ The MNIST dataset consists of handwritten digits from zero to nine. The followin
 
 Using the custom dataset from Task 4 that consists of one hundred images, I trained a model from Task 3, on ten images along with their captions. The following results were shown: <br>
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/MarenaKeys/Diffusion_Model/blob/main/FastDreamBooth_(COCO).ipynb)
 [![Model on 🤗 ](https://huggingface.co/datasets/huggingface/badges/resolve/main/model-on-hf-md.svg)](https://huggingface.co/mkeys20/coco-custom)
 ### Original
 ![COCO_val2014_000000002149](https://github.com/user-attachments/assets/3553ab01-94d1-4e8c-882b-d0972c7df10e)
